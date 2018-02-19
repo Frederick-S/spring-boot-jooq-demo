@@ -1,6 +1,6 @@
-package springboot.jooq.models;
+package springboot.jooq.dtos;
 
-public class Book {
+public class BookDto {
     private Integer id;
 
     private String title;
